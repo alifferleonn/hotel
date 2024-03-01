@@ -49,3 +49,5 @@ Solicita a quantidade de pessoas que irão se hospedar e realiza algumas operaç
 - Compile o programa usando um compilador C.
 - Execute o programa.
 - Escolha uma opção do menu para interagir com o sistema de gestão de hospedagem.
+ ## Autor
+Feito por: Aliffer Leonn
